@@ -1,5 +1,5 @@
 from files import *
-
+print("Arafa afa")
 archivo = abrirArchivo()
 print(archivo)
 
